@@ -11,7 +11,7 @@ const About = () => {
     <div className="grid grid-cols-1 gap-4 md:grid-cols-6 md:auto-rows-[18rem] mt-12">
         {/*grid 1*/}
         <div className="flex items-end grid-default1-color grid-1">
-            <img src="assets/photo.jpg"
+            <img src="./assets/photo.jpg"
             className="absolute scale-[0.9] -right-[5rem] -top-[4rem] md:scale-[1] md:left-0 md:inset-y-10 lg:scale-[1] grayscale contrast-104 brightness-80"
             />
             <div className="z-10">

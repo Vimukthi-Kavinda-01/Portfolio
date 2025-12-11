@@ -1,3 +1,5 @@
+
+
 export const myProjects = [
   {
     id: 1,
@@ -12,22 +14,22 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/task_manager.png",
+    image: "./assets/task_manager.png",
     tags: [
       {
         id: 1,
         name: "HTML",
-        path: "/assets/logos/html_1.png",
+        path: "./assets/html_1.png",
       },
       {
         id: 2,
         name: "CSS",
-        path: "/assets/logos/dotnet.svg",
+        path: "./assets/dotnet.svg",
       },
       {
         id: 3,
         name: "JavaScript",
-        path: "/assets/logos/javascript.svg",
+        path: "./assets/javascript.svg",
       },
     ],
   }
