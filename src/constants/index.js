@@ -1,4 +1,7 @@
 
+import whatsAppIcon from "../assets/whatsApp.svg";
+import linkedInIcon from "../assets/linkedIn.svg";
+import instagramIcon from "../assets/instagram.svg";
 
 export const myProjects = [
   {
@@ -39,17 +42,17 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "https://wa.me/94755332415",
-    icon: "./whatsApp.svg",
+    icon: whatsAppIcon,
   },
   {
     name: "Linkedin",
     href: "",
-    icon: "./linkedIn.svg",
+    icon: linkedInIcon,
   },
   {
     name: "Instagram",
     href: "",
-    icon: "./instagram.svg",
+    icon: instagramIcon,
   },
 ];
 
